@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="400" src="https://media0.giphy.com/media/Lny6Rw04nsOOc/giphy.gif?cid=ecf05e474wbx4i3qjgwfbztp393iz5dtgt2jz1g7lwr63hq8&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+  <img height="400" src="https://media0.giphy.com/media/Lny6Rw04nsOOc/giphy.gif?cid=ecf05e474wbx4i3qjgwfbztp393iz5dtgt2jz1g7lwr58hq8&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 </div>
 
 <br>
@@ -23,21 +23,21 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="63" alt="html5 logo"  />
-  <img width="63" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="63" alt="css3 logo"  />
-  <img width="63" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="63" alt="tailwindcss logo"  />
-  <img width="63" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="63" alt="javascript logo"  />
-  <img width="63" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="63" alt="typescript logo"  />
-  <img width="63" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="63" alt="react logo"  />
-  <img width="63" />
-  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="63" alt="microsoftsqlserver logo"  />
-  <img width="63" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="63" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="58" alt="html5 logo"  />
+  <img width="58" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="58" alt="css3 logo"  />
+  <img width="58" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="58" alt="tailwindcss logo"  />
+  <img width="58" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="58" alt="javascript logo"  />
+  <img width="58" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="58" alt="typescript logo"  />
+  <img width="58" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="58" alt="react logo"  />
+  <img width="58" />
+  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="58" alt="microsoftsqlserver logo"  />
+  <img width="58" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="58" alt="csharp logo"  />
 </div>
 
 ###
