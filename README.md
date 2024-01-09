@@ -23,21 +23,21 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="58" alt="html5 logo"  />
-  <img width="58" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="58" alt="css3 logo"  />
-  <img width="58" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="58" alt="tailwindcss logo"  />
-  <img width="58" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="58" alt="javascript logo"  />
-  <img width="58" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="58" alt="typescript logo"  />
-  <img width="58" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="58" alt="react logo"  />
-  <img width="58" />
-  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="58" alt="microsoftsqlserver logo"  />
-  <img width="58" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="58" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="65" alt="html5 logo"  />
+  <img width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="65" alt="css3 logo"  />
+  <img width="60" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="65" alt="tailwindcss logo"  />
+  <img width="60" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="65" alt="javascript logo"  />
+  <img width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="65" alt="typescript logo"  />
+  <img width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="65" alt="react logo"  />
+  <img width="60" />
+  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="65" alt="microsoftsqlserver logo"  />
+  <img width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="65" alt="csharp logo"  />
 </div>
 
 ###
