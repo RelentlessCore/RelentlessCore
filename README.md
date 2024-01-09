@@ -1,4 +1,8 @@
-<h1 align="left">Hello, I'm Dardan! 👋</h1>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Kkabo.Kkabo" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dardan+Kabashi;" />
+</h1>
 
 ###
 
@@ -59,25 +63,30 @@
 ###
 
 <div align="center">
-  <a href="https://linkedin.com/dardankabashi/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="79" height="49" alt="linkedin logo" />
+  <a href="mailto:pedro.sales.muniz@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="49" alt="gmail logo"  />
   </a>
-  <a href="mailto:dardankabashi101@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="79" height="49" alt="gmail logo" />
+  <a href="https://www.linkedin.com/in/dardankabashi/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="49" alt="linkedin logo"  />
   </a>
-  <a href="https://discord.com/users/kabbo10" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" width="79" height="49" alt="discord logo" />
+  <a href="https://www.instagram.com/dardankabashi10/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="49" alt="instagram logo"  />
   </a>
-  <a href="https://instagram.com/dardankabashi10" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="79" height="49" alt="instagram logo" />
+  <a href="https://salesp07.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-ADD8E6?style=for-the-badge&logo=todoist&logoColor=white" height="49" alt="portfolio logo" target="_blank" />
   </a>
 </div>
 
-###
-
+<br>
 <br>
 
-###
+  <h1>🐍 My Contributions 🐍</h1>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/>
+</h1>
+
+<br>
 
 <h1 align="left">🎨 GitHub Profile Views Counter:</h1>
 
