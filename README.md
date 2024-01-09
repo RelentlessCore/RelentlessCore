@@ -59,17 +59,17 @@
 ###
 
 <div align="center">
-  <a href="linkedin.com/dardankabashi/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="49" alt="linkedin logo"  />
+  <a href="https://linkedin.com/dardankabashi/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="79" height="49" alt="linkedin logo" />
   </a>
-  <a href="dardankabashi101@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="49" alt="gmail logo"  />
+  <a href="mailto:dardankabashi101@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="79" height="49" alt="gmail logo" />
   </a>
-  <a href="kabbo10" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="49" alt="discord logo"  />
+  <a href="https://discord.com/users/kabbo10" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" width="79" height="49" alt="discord logo" />
   </a>
-  <a href="instagram.com/dardankabashi10" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="49" alt="instagram logo"  />
+  <a href="https://instagram.com/dardankabashi10" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="79" height="49" alt="instagram logo" />
   </a>
 </div>
 
