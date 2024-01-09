@@ -77,8 +77,6 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/Kkabo/Kkabo/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <h1 align="left">🎨 GitHub Profile Views Counter:</h1>
