@@ -1,16 +1,8 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Kkabo.Kkabo" />
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dardan+Kabashi;" />
 </h1>
 
 ###
-
-<div align="center">
-  <img height="400" src="https://media0.giphy.com/media/Lny6Rw04nsOOc/giphy.gif?cid=ecf05e474wbx4i3qjgwfbztp393iz5dtgt2jz1g7lwr58hq8&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-</div>
-
-<br>
 
 <h1 align="left">🌐 About Me</h1>
 
