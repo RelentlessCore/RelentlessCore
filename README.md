@@ -66,7 +66,7 @@
   <a href="https://www.instagram.com/dardankabashi10/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="49" alt="instagram logo"  />
   </a>
-  <a href="https://dardan-internship.vercel.app" target="_blank">
+  <a href="https://github.com/Kkabo/Personal-Portfolio" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-ADD8E6?style=for-the-badge&logo=todoist&logoColor=white" height="49" alt="portfolio logo" target="_blank" />
   </a>
 </div>
