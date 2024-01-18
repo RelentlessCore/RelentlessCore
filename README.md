@@ -82,7 +82,7 @@
 
 <br>
 
-<h1 align="left">🎨 GitHub Profile Views Counter:</h1>
+<h1 align="left">🎨 GitHub Profile Views Counter: </h1>
 
 ###
 
