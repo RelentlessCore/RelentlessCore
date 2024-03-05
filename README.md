@@ -19,39 +19,39 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="67" alt="html5 logo"  />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="66" alt="html5 logo"  />
   <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="67" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="66" alt="css3 logo"  />
   <img width="24" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="67" alt="javascript logo"  />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="66" alt="javascript logo"  />
   <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="67" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="66" alt="typescript logo"  />
   <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="67" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="66" alt="csharp logo"  />
   <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="67" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="66" alt="react logo"  />
   <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="67" alt="nextjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="66" alt="nextjs logo"  />
   <img width="24" />
-  <img src="https://cdn.simpleicons.org/mui/007FFF" height="67" alt="materialui logo"  />
+  <img src="https://cdn.simpleicons.org/mui/007FFF" height="66" alt="materialui logo"  />
   <img width="24" />
-  <img src="https://cdn.simpleicons.org/redux/764ABC" height="67" alt="redux logo"  />
+  <img src="https://cdn.simpleicons.org/redux/764ABC" height="66" alt="redux logo"  />
   <img width="24" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="67" alt="tailwindcss logo"  />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="66" alt="tailwindcss logo"  />
   <img width="24" />
-  <img src="https://cdn.simpleicons.org/dotnet/512BD4" height="67" alt="dot-net logo"  />
+  <img src="https://cdn.simpleicons.org/dotnet/512BD4" height="66" alt="dot-net logo"  />
   <img width="24" />
-  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="67" alt="microsoftsqlserver logo"  />
+  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="66" alt="microsoftsqlserver logo"  />
   <img width="24" />
-  <img src="https://cdn.simpleicons.org/npm/CB3837" height="67" alt="npm logo"  />
+  <img src="https://cdn.simpleicons.org/npm/CB3837" height="66" alt="npm logo"  />
   <img width="24" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="67" alt="git logo"  />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="66" alt="git logo"  />
   <img width="24" />
-  <img src="https://cdn.simpleicons.org/yarn/2C8EBB" height="67" alt="yarn logo"  />
+  <img src="https://cdn.simpleicons.org/yarn/2C8EBB" height="66" alt="yarn logo"  />
   <img width="24" />
-  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="67" alt="firebase logo"  />
+  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="66" alt="firebase logo"  />
   <img width="24" />
-  <img src="https://skillicons.dev/icons?i=github" height="67" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="66" alt="github logo"  />
 </div>
 
 ###
