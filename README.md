@@ -41,17 +41,23 @@
   <img width="24" />
   <img src="https://cdn.simpleicons.org/dotnet/512BD4" height="65" alt="dot-net logo"  />
   <img width="24" />
-  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="65" alt="microsoftsqlserver logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="65" alt="nodejs logo"  />
   <img width="24" />
-  <img src="https://cdn.simpleicons.org/npm/CB3837" height="65" alt="npm logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="65" alt="microsoftsqlserver logo"  />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="65" alt="mysql logo"  />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="65" alt="mongodb logo"  />
   <img width="24" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="65" alt="git logo"  />
   <img width="24" />
-  <img src="https://cdn.simpleicons.org/yarn/2C8EBB" height="65" alt="yarn logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="65" alt="github logo"  />
   <img width="24" />
   <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="65" alt="firebase logo"  />
   <img width="24" />
-  <img src="https://skillicons.dev/icons?i=github" height="65" alt="github logo"  />
+  <img src="https://cdn.simpleicons.org/npm/CB3837" height="65" alt="npm logo"  />
+  <img width="24" />
+  <img src="https://cdn.simpleicons.org/yarn/2C8EBB" height="65" alt="yarn logo"  />
 </div>
 
 ###
