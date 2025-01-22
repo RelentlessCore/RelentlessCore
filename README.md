@@ -64,13 +64,7 @@
 
 <br>
 
-<h1 align="left">🚀 Projects:</h1>
-
-###
-
-<h3 align="left">https://dardan-internship.vercel.app</h3>
-
-###
+<h1 align="left">🚀 Projects</h1>
 
 <br>
 
