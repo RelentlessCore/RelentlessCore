@@ -9,7 +9,7 @@
 ### 
 
 <h3 align="left">I'm a Computer Science and Engineering Graduate specialized in Software Engineering. Passionate about building scalable web applications and innovative software solutions.</h3>
-
+ 
 ###
  
 <br>
