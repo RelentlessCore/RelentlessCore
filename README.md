@@ -83,14 +83,16 @@ I enjoy solving complex problems through code and building reliable systems that
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/dardankabashi/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/dardankabashi/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50" />
   </a>
-  <a href="mailto:dkabashi.tech@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail" />
+  &nbsp;&nbsp;
+  <a href="mailto:dkabashi.tech@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" alt="Gmail" width="50" height="50" />
   </a>
-  <a href="https://www.instagram.com/dardankabashi10/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram" />
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/dardankabashi10/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" alt="Instagram" width="50" height="50" />
   </a>
 </div>
 
