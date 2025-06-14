@@ -84,7 +84,7 @@ I enjoy solving complex problems through code and building reliable systems that
 
 ###
 
-<h2 align="left">📫 How to reach me</h2>
+<h1 align="left">📫 How to reach me</h1>
 
 ###
 
@@ -96,7 +96,7 @@ I enjoy solving complex problems through code and building reliable systems that
 
 ###
 
-<h2 align="left">🐍 My Contributions 🐍</h2>
+<h1 align="left">🐍 My Contributions 🐍</h1>
 
 ###
 
@@ -104,12 +104,12 @@ I enjoy solving complex problems through code and building reliable systems that
 
 ###
 
-<h2 align="left">🎨 GitHub Profile Views Counter:</h2>
+<h1 align="left">🎨 GitHub Profile Views Counter:</h1>
 
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Kkabo/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/RelentlessCore/count.svg?"  />
 </div>
 
 ###
