@@ -98,16 +98,6 @@ I enjoy solving complex problems through code and building reliable systems that
 
 ###
 
-<h1 align="left">🎨 GitHub Profile Views Counter:</h1>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Kkabo/count.svg?"  />
-</div>
-
-###
-
 <br clear="both">
 
 <div align="center">
