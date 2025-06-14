@@ -82,29 +82,6 @@ I enjoy solving complex problems through code and building reliable systems that
 
 <br>
 
-<h1 align="left">📫 How to reach me</h1>
-
-###
-
-<div align="center">
-  <a href="mailto:pedro.sales.muniz@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="49" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/dardankabashi/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="49" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/dardankabashi10/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="49" alt="instagram logo"  />
-  </a>
-  <a href="https://github.com/Kkabo/Personal-Portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-ADD8E6?style=for-the-badge&logo=todoist&logoColor=white" height="49" alt="portfolio logo" target="_blank" />
-  </a>
-</div>
-
-###
-
-<h2 align="left">🚀 Projects:</h2>
-
 ###
 
 <h2 align="left">📫 How to reach me</h2>
