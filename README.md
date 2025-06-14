@@ -16,7 +16,7 @@ I enjoy solving complex problems through code and building reliable systems that
   
 <br>
 
-<h1 align="left">Skills:</h1>
+<h1 align="left">Skills</h1>
  
 ###
 
@@ -88,6 +88,8 @@ I enjoy solving complex problems through code and building reliable systems that
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
 </div>
 
+<br>
+
 ###
 
 <h1 align="left">🐍 My Contributions 🐍</h1>
@@ -95,6 +97,8 @@ I enjoy solving complex problems through code and building reliable systems that
 ###
 
 <img src="https://raw.githubusercontent.com/Kkabo/RelentlessCore/output/snake.svg" alt="Snake animation" />
+
+<br>
 
 ###
 
