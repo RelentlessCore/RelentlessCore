@@ -8,7 +8,7 @@
  
 ###  
 
-<h3 align="left">I'm a Computer Science and Engineering Graduate specialized in Software Engineering.
+<h3 align="left">I'm a Computer Science and Engineering Graduate specialized in Software Engineering. <br>
 I enjoy solving complex problems through code and building reliable systems that make a real impact across platforms, industries, and ideas.
 </h3>
  
