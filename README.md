@@ -78,12 +78,6 @@ I enjoy solving complex problems through code and building reliable systems that
 
 <br>
 
-<h1 align="left">🚀 Projects</h1>
-
-<br>
-
-###
-
 <h1 align="left">📫 How to reach me</h1>
 
 ###
@@ -100,7 +94,7 @@ I enjoy solving complex problems through code and building reliable systems that
 
 ###
 
-<img src="https://raw.githubusercontent.com/Kkabo/Kkabo/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Kkabo/RelentlessCore/output/snake.svg" alt="Snake animation" />
 
 ###
 
