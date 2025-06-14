@@ -104,7 +104,7 @@ I enjoy solving complex problems through code and building reliable systems that
 
 ###
 
-<img src="https://raw.githubusercontent.com/Kkabo/RelentlessCore/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/RelentlessCore/RelentlessCore/blob/output/ocean.gif)
 
 <br>
 
