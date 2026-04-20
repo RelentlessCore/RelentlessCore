@@ -3,14 +3,11 @@
 </h1>
 
 <p align="center">
-  <a href="[https://eportfolio-kosova.vercel.app/](https://dkabashi.netlify.app/)" target="_blank">
+  <a href="[[https://eportfolio-kosova.vercel.app/](https://dkabashi.netlify.app/)](https://dkabashi.netlify.app/)" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Live%20Site-6C5CE7?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/dardankabashi/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:dkabashi.tech@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=RelentlessCore&style=for-the-badge&color=6C5CE7" />
 </p>
