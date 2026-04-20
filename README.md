@@ -6,10 +6,6 @@
   <a href="[[https://eportfolio-kosova.vercel.app/](https://dkabashi.netlify.app/)](https://dkabashi.netlify.app/)" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Live%20Site-6C5CE7?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/dardankabashi/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=RelentlessCore&style=for-the-badge&color=6C5CE7" />
 </p>
 
 ---
@@ -84,7 +80,6 @@
   <a href="mailto:dkabashi.tech@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" alt="Gmail" width="55" />
   </a>
-  &nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/dardankabashi10/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" alt="Instagram" width="55" />
