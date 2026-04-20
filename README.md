@@ -12,7 +12,7 @@
 ⚡ I build end-to-end web applications that solve real problems and scale with the team <br>
 📫 Reach me at **dkabashi.tech@gmail.com**
 
----
+--- 
 
 ## 🛠 Skills
 
