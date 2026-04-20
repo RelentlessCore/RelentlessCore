@@ -54,7 +54,7 @@
 
 ## 🚀 Portfolio
 
-[portfolio site](https://dkabashi.netlify.app/) 🌐
+[eportfolio.com](https://dkabashi.netlify.app/) 🌐
 
 ---
 
