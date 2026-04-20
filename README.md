@@ -20,8 +20,8 @@
 ## 👨‍💻 About Me
 
 🎓 MSc Software Engineering student at **TU Wien**, Vienna <br>
-💼 Full-Stack Developer with **3+ years** shipping production code across fintech, healthcare, and education <br>
-🌍 Based in **Vienna, Austria**, open to Full-Stack, Junior Developer, Intern, and Werkstudent roles <br>
+💼 Full-Stack Developer <br>
+🌍 Based in **Vienna, Austria** <br>
 ⚡ I build end-to-end web applications that solve real problems and scale with the team <br>
 📫 Reach me at **dkabashi.tech@gmail.com**
 
