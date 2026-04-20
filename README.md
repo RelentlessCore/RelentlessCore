@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://eportfolio-kosova.vercel.app/" target="_blank">
+  <a href="[https://eportfolio-kosova.vercel.app/](https://dkabashi.netlify.app/)" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Live%20Site-6C5CE7?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/dardankabashi/" target="_blank">
@@ -65,28 +65,9 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Portfolio
 
-| Project | Description | Stack | Links |
-|---------|-------------|-------|-------|
-| **🎓 CampusCore** | Full-stack PERN dashboard with multi-role auth, join-code enrollment, and Cloudinary uploads | `React` `TypeScript` `Node.js` `Express` `PostgreSQL` | [Live](https://campuscore-app.vercel.app/) · [Code](https://github.com/RelentlessCore/CampusCore) |
-| **📈 MarketPulse** | Real-time stock tracker with TradingView charts, watchlists, and AI-generated email summaries | `React` `Next.js` `TypeScript` `MongoDB` `Tailwind` | [Live](https://marketpulse-site.vercel.app/) · [Code](https://github.com/RelentlessCore/MarketPulse) |
-| **🏥 HealthDesk** | Healthcare platform with appointment scheduling, Twilio SMS, and OTP-secured admin access | `React` `Next.js` `TypeScript` `Appwrite` `Tailwind` | [Live](https://healthdesk-app.vercel.app/) · [Code](https://github.com/RelentlessCore/HealthDesk) |
-
-More projects on my [portfolio site](https://eportfolio-kosova.vercel.app/#projects) 🌐
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=RelentlessCore&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RelentlessCore&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RelentlessCore&theme=tokyonight&hide_border=true" />
-</p>
+[portfolio site](https://eportfolio-kosova.vercel.app/#projects) 🌐
 
 ---
 
@@ -107,9 +88,6 @@ More projects on my [portfolio site](https://eportfolio-kosova.vercel.app/#proje
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" alt="Gmail" width="55" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://eportfolio-kosova.vercel.app/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/portfolio/default.svg" alt="Portfolio" width="55" />
-  </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/dardankabashi10/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" alt="Instagram" width="55" />
