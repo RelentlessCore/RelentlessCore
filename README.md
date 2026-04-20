@@ -60,7 +60,7 @@
 
 ## 🐍 Contribution Graph
 
-![snake gif](https://github.com/RelentlessCore/RelentlessCore/blob/output/ocean.gif)
+![snake animation](https://raw.githubusercontent.com/RelentlessCore/RelentlessCore/output/github-snake-dark.svg)
 
 ---
 
