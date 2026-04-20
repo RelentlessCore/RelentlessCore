@@ -2,12 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dardan;+Software+Developer" />
 </h1>
 
-<p align="center">
-  <a href="[[https://eportfolio-kosova.vercel.app/](https://dkabashi.netlify.app/)](https://dkabashi.netlify.app/)" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Live%20Site-6C5CE7?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
-
 ---
 
 ## 👨‍💻 About Me
@@ -60,7 +54,7 @@
 
 ## 🚀 Portfolio
 
-[portfolio site](https://eportfolio-kosova.vercel.app/#projects) 🌐
+[portfolio site](https://dkabashi.netlify.app/) 🌐
 
 ---
 
